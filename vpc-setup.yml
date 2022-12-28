@@ -10,8 +10,6 @@
         name: "{{ vpc_name }}"
         cidr_block: "{{ vpcCidr }}"
         region: "{{ region }}"
-        aws_access_key: AKIATG6JL7737IBPHGGO
-        aws_secret_key: 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
         dns_support: yes
         dns_hostname: yes
         tenancy: default
